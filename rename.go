@@ -1,4 +1,4 @@
-package main
+package rename
 
 func main() {
 	var root []string
